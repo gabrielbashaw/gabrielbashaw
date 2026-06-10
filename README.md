@@ -19,9 +19,7 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" style="padding-right:5px;"/></a>
   <a href="https://godotengine.org/" target="_blank" rel="noreferrer">
-    <img src="https://godotengine.org/assets/press/icon_color.png" alt="Godot" title="Godot" width="36" height="36" style="padding-right:5px;"/></a>
-  <a href="https://unity.com/" target="_blank" rel="norefferer">
-    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/unity-game-engine-icon.png" alt="Unity" title="Unity" width="36" height="36" style="padding-right:5px;"/></a>
+    <img src="https://godotengine.org/assets/press/icon_color.svg" alt="Godot" title="Godot" width="36" height="36" style="padding-right:5px;"/></a>
   <!-- <a href="" target="_blank" rel="norefferer"><img src="" alt="" title="" width="36" height="36"/></a> -->
 </p>
 
@@ -49,12 +47,6 @@
       </li>
     </ul>
 </ul>
-
-#
-
-<!-- Top Repos Section -->
-<h3>Top Repositories</h3>
-<div width="100%" align="center"><a href="https://github.com/gabrielbashaw/Simple-Terminal-Library" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielbashaw&repo=Simple-Terminal-Library&title_color=ffffff&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=false&locale=en"></a></div><br /><br /><br /><br /><br /><br /><br />
 
 #
 
