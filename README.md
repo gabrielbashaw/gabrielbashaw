@@ -34,6 +34,10 @@
     </ul>
 </ul>
 
+<!-- Top Repos Section -->
+<b>Top Repositories</b>
+<div width="100%" align="center"><a href="https://github.com/gabrielbashaw/Simple-Terminal-Library" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielbashaw&repo=Simple-Terminal-Library&title_color=ffffff&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=false&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
 <!-- Stats Section -->
 <h2>📊 GitHub Stats:</h2>
 <a href="https://github.com/gabrielbashaw"><img src="https://github-readme-stats.vercel.app/api?username=gabrielbashaw&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=false&show_icons=true" alt="gabrielbashaw's GitHub stats" /></a>
@@ -41,7 +45,3 @@
 <a href="https://github.com/gabrielbashaw"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielbashaw&stroke=ffffff&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" /></a>
 
 <a href="https://github.com/gabrielbashaw" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbashaw&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<!-- Top Repos Section -->
-<b>Top Repositories</b>
-<div width="100%" align="center"><a href="https://github.com/gabrielbashaw/Simple-Terminal-Library" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielbashaw&repo=Simple-Terminal-Library&title_color=ffffff&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=false&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
